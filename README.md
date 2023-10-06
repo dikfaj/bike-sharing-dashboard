@@ -1,4 +1,10 @@
-# Environment
-```pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel```
+# Setup Environment
+```bash 
+pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
+```
 # Run Streamlit
-``` Python -m streamlit run dashboard.py```
+```bash
+-m streamlit run dashboard.py
+```
+# Dashboard
+[Click Here](https://bike-sharing-dashboard-dicoding.streamlit.app/)
